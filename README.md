@@ -2,6 +2,12 @@
 
 Two models. One identical prompt. Live GLSL, compiled in your browser — one side alive, one side black with a compile error. Then the failing model gets **one repair pass** with its own error log fed back. That's the whole show: can it fix its own shader?
 
+https://github.com/user-attachments/assets/d9c7241f-cfca-452d-af0a-a5d04ee93ac2
+
+<img width="1774" height="2071" alt="screencapture-localhost-5173-2026-09-22-23_22_17" src="https://github.com/user-attachments/assets/b1d962fc-f108-4db4-be95-5ba09fc5859f" />
+<img width="1766" height="1078" alt="Screenshot at Sep 22 23-22-35" src="https://github.com/user-attachments/assets/41d326ae-2bef-4c70-a6c9-897c1ee1bb85" />
+<img width="1774" height="1731" alt="screencapture-localhost-5173-2026-09-22-23_05_18" src="https://github.com/user-attachments/assets/d58e5c3d-70d2-46c6-905e-4222404c5aa8" />
+
 ## What it does
 
 You type a scene ("an infinite neon tunnel") and hit **FORGE both**. The app:
