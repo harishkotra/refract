@@ -1,0 +1,32 @@
+# Node / build output
+node_modules/
+dist/
+build/
+*.local
+
+# Vite
+frontend/dist/
+frontend/.vite/
+*.tsbuildinfo
+
+# Runtime port discovery (auto-written by backend dev server)
+.backend-port
+
+# Env / secrets — NEVER commit keys
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+BLOG.md
